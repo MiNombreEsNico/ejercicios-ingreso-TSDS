@@ -9,7 +9,7 @@ Algoritmo calculoDePromedioDeNotas
 	Leer nota4
 	Escribir "Nota 5"
 	Leer nota5
-	Suma = nota1 + nota2 + nota3 + nota4 + nota5
-	promedio = suma / 5
+	Suma <- nota1 + nota2 + nota3 + nota4 + nota5
+	promedio <- suma / 5
 	Escribir "El promedio es de ", promedio
 FinAlgoritmo

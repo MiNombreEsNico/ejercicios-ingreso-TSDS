@@ -6,7 +6,7 @@ Algoritmo mayorMenor
 	Escribir "Ingrese el año actual"
 	Leer añoActual
 	
-	resultado = añoActual - añoNacimiento
+	resultado <- añoActual - añoNacimiento
 	
 	Si resultado >= 18 Entonces
 		Escribir "Usted es mayor de edad"
